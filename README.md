@@ -1,3 +1,3 @@
-# Typescript contact List App
-# Live Link :
-https://typescript-contact-list.netlify.app 
+# TypeScript Contact List: 
+# Live Link
+[TypeScript Contact List] (https://typescript-contact-list.netlify.app/)
